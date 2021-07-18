@@ -16,7 +16,7 @@
  
    ***This Game will Generate From A file in the project folder "obstacles.txt" such that -1  represents an obstacle and 
    0 is represents free place and the first line of file contains size of game and enter and leave points og the game , so you can 
-   change on file to change obstacles , free places , enter and leave points.You will have a buttons in GUI for #number of solutions 
+   change in file to change obstacles , free places , enter and leave points.You will have a buttons in GUI for #number of solutions 
    , Display Best Solutions , Display all Solutions and for clear GUI.***
    
   # Developer 
