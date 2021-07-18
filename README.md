@@ -20,6 +20,6 @@
    , Display Best Solutions , Display all Solutions and for clear GUI.***
    
   # Developer 
-   *Mahran Yacoub / Palestine*
+    **Mahran Yacoub / Palestine***
    
   # Welcome and I hope this Project will be useful for some people.
