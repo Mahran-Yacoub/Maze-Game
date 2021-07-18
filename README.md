@@ -1,7 +1,6 @@
 # Maze-Game
 
-# This Project is an university project from Algoritms course at Birzeit University , Palestine 
-
+** This Project is an university project from Algoritms course at Birzeit University , Palestine **
 # Applied Algorithms 
    ** BackTracking ** 
    
