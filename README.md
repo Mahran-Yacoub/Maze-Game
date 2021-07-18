@@ -19,8 +19,9 @@
    change in file to change obstacles , free places , enter and leave points.You will have  buttons in GUI for #number of solutions 
    , Display Best Solutions , Display all Solutions and for clear GUI.***
    
-  #Developer 
-    **Mahran Yacoub**
-    **This Project is an university project from Algoritms course at Birzeit University , Palestine**
+  # Developer 
+   **Mahran Yacoub From Palestine**
    
   # Welcome and I hope this Project will be useful for some people.
+  
+  
